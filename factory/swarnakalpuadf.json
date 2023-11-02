@@ -1,0 +1,9 @@
+{
+	"name": "swarnakalpuadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0feee582-1892-4749-bd2c-69539483dfc3",
+		"tenantId": "59e2b7a8-b759-4835-a118-4ab1cc29c89c"
+	}
+}
