@@ -1,0 +1,9 @@
+{
+	"name": "mouliadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bbd86ac-e6f1-4fc7-8e8d-0e99ecad5d95",
+		"tenantId": "74b4cac4-0abe-4ec8-92cb-427c7b4d136d"
+	}
+}
